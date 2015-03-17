@@ -1,0 +1,23 @@
+.cell
+{
+    width: 20px;
+    height: 20px;
+    background-color: #cccccc;
+    float: left;
+    border: 1px solid white;
+    margin: 0;
+    padding: 0;
+}
+
+.row
+{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    clear: both;
+}
+
+.row-1, .row-2
+{
+    display: none;
+}
